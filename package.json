@@ -1,0 +1,18 @@
+{
+  "name": "testlwm2mserver",
+  "version": "1.0.0",
+  "description": "node.jsを使ったLWM2M通信のテスト",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testlwm2mserver"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lwm2m-node-lib": "^1.4.0"
+  }
+}
